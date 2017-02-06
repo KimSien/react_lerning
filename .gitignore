@@ -1,0 +1,18 @@
+# direcotry
+/node_modules/
+*/node_modules
+npm_install/node_modules/
+
+# win
+
+# mac
+.DS_Store
+
+# resorce
+*.jpg
+*.png
+*.psd
+*.ai
+*.jpeg
+*.zip
+*.pdf
