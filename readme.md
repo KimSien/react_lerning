@@ -22,7 +22,7 @@ https://facebook.github.io/react/docs/installation.html
     browser start 'localhost:3000'
 
 ## 1-2 cdn case
-- ref: src/
+- ref: normal/
 
     terminal command typing 'php -S localhost:3000 -t src/'.
 
