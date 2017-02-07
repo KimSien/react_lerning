@@ -24,7 +24,7 @@ https://facebook.github.io/react/docs/installation.html
 ## 1-2 cdn case
 - ref: normal/
 
-    terminal command typing 'php -S localhost:3000 -t src/'.
+    terminal command typing 'php -S localhost:3000 -t normal/'.
 
 - used jsx not recomend
 https://utano.jp/entry/2016/07/react-js-download-from-official-site/
